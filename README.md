@@ -2,11 +2,11 @@
 
 # 🛡️ InsureSight: Insurance Policy & Claims Analytics Dashboard
  
-An interactive Power BI dashboard built to analyze insurance policies, premiums, coverage, and claims data — helping identify risk patterns, claim trends, and customer segments at a glance.
+An interactive Power BI dashboard built to analyze insurance policies, premiums, coverage, and claims data helping identify risk patterns, claim trends, and customer segments at a glance.
  
 ## 📌 Purpose
  
-InsureSight is a Power BI report designed to give insurers, analysts, and business teams a clear view of policy performance and claims behavior across customer segments. It brings together premium collection, coverage exposure, claim outcomes, and customer demographics into a single, filterable view — making it easy to spot trends without digging through raw spreadsheets.
+InsureSight is a Power BI report designed to give insurers, analysts, and business teams a clear view of policy performance and claims behavior across customer segments. It brings together premium collection, coverage exposure, claim outcomes, and customer demographics into a single, filterable view making it easy to spot trends without digging through raw spreadsheets.
  
 ## 🧰 Tech Stack
  
@@ -15,11 +15,10 @@ InsureSight is a Power BI report designed to give insurers, analysts, and busine
 - **🧠 DAX** – Powers the aggregated measures behind the cards, charts, and pivot table (sums, counts, etc.)
 - **📝 Data Modeling** – Relationships built across the policy/claims table and date tables to support time-based filtering
 - **📁 File Format** – `.pbit` (template) for development, `.png` for dashboard previews
-## 🗂️ Data Source
- 
-*(Add details here — e.g. where the dataset came from: a public dataset, sample/synthetic data, or your own source, and roughly how many records/policies it covers.)*
- 
-The core dataset includes policy-level records with the following fields: Policy Number, Customer ID, Gender, Age, Age Group, Policy Type, Policy Start/End Date, Premium Amount, Coverage Amount, Claim Number, Claim Date, Claim Amount, Claim Status, and Active/Inactive status.
+## 🗂️ Data Source :
+This is a sample insurance dataset used for practice, sourced from a Udemy Power BI course. It contains policy-level records including customer demographics, premium and coverage amounts, and claims information, and was used to build hands-on data modeling and DAX skills.
+
+ The core dataset includes policy-level records with the following fields: Policy Number, Customer ID, Gender, Age, Age Group, Policy Type, Policy Start/End Date, Premium Amount, Coverage Amount, Claim Number, Claim Date, Claim Amount, Claim Status, and Active/Inactive status.
  
 ## ✨ Features / Highlights
  
