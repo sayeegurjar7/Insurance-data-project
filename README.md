@@ -65,6 +65,6 @@ To provide a single interactive view that:
 - **Customer Retention**: Track active vs. inactive policyholders to flag churn risk
 - **Claims Efficiency**: Monitor the spread of claim statuses to spot bottlenecks in approvals
 ## 📸 Screenshots / Demo
- 
-<img width="1418" height="752" alt="Screenshot 2026-09-02 113048" src="https://github.com/user-attachments/assets/4e4867cb-6c7f-4806-a004-8cdf189a6ecb" />
+ <img width="1418" height="752" alt="Screenshot 2026-09-02 113048" src="https://github.com/user-attachments/assets/1600d0e5-2ae1-4f2b-95dd-5f4c6c7d3eee" />
+
 
