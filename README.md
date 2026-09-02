@@ -66,4 +66,5 @@ To provide a single interactive view that:
 - **Claims Efficiency**: Monitor the spread of claim statuses to spot bottlenecks in approvals
 ## 📸 Screenshots / Demo
  
-*(Add a screenshot or GIF of the dashboard here, and/or a link to the published Power BI report if available.)*
+<img width="1418" height="752" alt="Screenshot 2026-09-02 113048" src="https://github.com/user-attachments/assets/4e4867cb-6c7f-4806-a004-8cdf189a6ecb" />
+
